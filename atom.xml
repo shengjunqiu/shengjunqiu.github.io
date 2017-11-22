@@ -4,7 +4,7 @@
   <title><![CDATA[思考集]]></title>
   <link href="https://shengjunqiu.github.io/atom.xml" rel="self"/>
   <link href="https://shengjunqiu.github.io/"/>
-  <updated>2017-11-22T23:34:21+08:00</updated>
+  <updated>2017-11-22T23:39:40+08:00</updated>
   <id>https://shengjunqiu.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -14,11 +14,23 @@
 
   
   <entry>
-    <title type="html"><![CDATA[]]></title>
+    <title type="html"><![CDATA[你说什么我不知道]]></title>
+    <link href="https://shengjunqiu.github.io/15113651491051.html"/>
+    <updated>2017-11-22T23:39:09+08:00</updated>
+    <id>https://shengjunqiu.github.io/15113651491051.html</id>
+    <content type="html"><![CDATA[
+<p>来吧</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[第一条博客]]></title>
     <link href="https://shengjunqiu.github.io/15113649745833.html"/>
     <updated>2017-11-22T23:36:14+08:00</updated>
     <id>https://shengjunqiu.github.io/15113649745833.html</id>
     <content type="html"><![CDATA[
+<p>哈哈哈</p>
 
 ]]></content>
   </entry>
