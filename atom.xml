@@ -4,7 +4,7 @@
   <title><![CDATA[思考集]]></title>
   <link href="https://shengjunqiu.github.io/atom.xml" rel="self"/>
   <link href="https://shengjunqiu.github.io/"/>
-  <updated>2017-11-30T19:37:02+08:00</updated>
+  <updated>2017-12-01T11:10:26+08:00</updated>
   <id>https://shengjunqiu.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -14,11 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[]]></title>
-    <link href="https://shengjunqiu.github.io/15120443872591.html"/>
-    <updated>2017-11-30T20:19:47+08:00</updated>
-    <id>https://shengjunqiu.github.io/15120443872591.html</id>
+    <title type="html"><![CDATA[Javasript 闭包]]></title>
+    <link href="https://shengjunqiu.github.io/15121178421506.html"/>
+    <updated>2017-12-01T16:44:02+08:00</updated>
+    <id>https://shengjunqiu.github.io/15121178421506.html</id>
     <content type="html"><![CDATA[
+<p>阮一峰对 JS 闭包的解释我很喜欢。</p>
+
+<blockquote>
+</blockquote>
 
 ]]></content>
   </entry>
