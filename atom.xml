@@ -4,7 +4,7 @@
   <title><![CDATA[思考集]]></title>
   <link href="https://shengjunqiu.github.io/atom.xml" rel="self"/>
   <link href="https://shengjunqiu.github.io/"/>
-  <updated>2017-12-01T11:10:26+08:00</updated>
+  <updated>2017-12-01T16:47:13+08:00</updated>
   <id>https://shengjunqiu.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -22,6 +22,9 @@
 <p>阮一峰对 JS 闭包的解释我很喜欢。</p>
 
 <blockquote>
+<p>各种专业文献上的&quot;闭包&quot;（closure）定义非常抽象，很难看懂。我的理解是，闭包就是能够读取其他函数内部变量的函数。<br/>
+由于在Javascript语言中，只有函数内部的子函数才能读取局部变量，因此可以把闭包简单理解成&quot;定义在一个函数内部的函数&quot;。<br/>
+所以，在本质上，闭包就是将函数内部和函数外部连接起来的一座桥梁。</p>
 </blockquote>
 
 ]]></content>
