@@ -4,7 +4,7 @@
   <title><![CDATA[思考集]]></title>
   <link href="https://shengjunqiu.github.io/atom.xml" rel="self"/>
   <link href="https://shengjunqiu.github.io/"/>
-  <updated>2017-12-29T03:19:12+08:00</updated>
+  <updated>2017-12-29T03:19:30+08:00</updated>
   <id>https://shengjunqiu.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://www.coderforart.com/">CoderForArt</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[相关书籍]]></title>
+    <link href="https://shengjunqiu.github.io/15144888846668.html"/>
+    <updated>2017-12-29T03:21:24+08:00</updated>
+    <id>https://shengjunqiu.github.io/15144888846668.html</id>
+    <content type="html"><![CDATA[
+<h3 id="toc_0">计算机史</h3>
+
+<ul>
+<li><a href="https://item.jd.com/11670362.html">《计算机：一部历史》</a> </li>
+<li><a href="https://item.jd.com/11758229.html">《计算机科学导论》</a></li>
+</ul>
+
+<h3 id="toc_1">计算组成原理</h3>
+
+<ul>
+<li><a href="https://item.jd.com/12157932.html">《计算机组成原理》</a></li>
+</ul>
+
+<p><strong>待续...</strong></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[计算机科学知识体系构建]]></title>
