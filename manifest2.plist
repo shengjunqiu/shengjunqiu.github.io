@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://weilingwangluo.com/aa9a8a3a77ae4a2eb14aa13abe06cc23?sign=bfb921840d14be660ed5aa07bf9765e6&amp;t=5d15f108&amp;attname=QYZH.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.TM.QYZH</string>
+				<key>bundle-version</key>
+				<string>2.0.9</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>探米助手</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
