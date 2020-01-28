@@ -4,7 +4,7 @@
   <title><![CDATA[思考集]]></title>
   <link href="https://shengjunqiu.github.io/atom.xml" rel="self"/>
   <link href="https://shengjunqiu.github.io/"/>
-  <updated>2019-09-15T22:24:37+08:00</updated>
+  <updated>2019-09-16T23:31:48+08:00</updated>
   <id>https://shengjunqiu.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -14,12 +14,22 @@
 
   
   <entry>
+    <title type="html"><![CDATA[知识共享与版权]]></title>
+    <link href="https://shengjunqiu.github.io/15802046793634.html"/>
+    <updated>2020-01-28T17:44:39+08:00</updated>
+    <id>https://shengjunqiu.github.io/15802046793634.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[谈谈个人的输入与输出]]></title>
     <link href="https://shengjunqiu.github.io/15685429421414.html"/>
     <updated>2019-09-15T18:22:22+08:00</updated>
     <id>https://shengjunqiu.github.io/15685429421414.html</id>
     <content type="html"><![CDATA[
-<p>输入与输出，对于软件开发者来说是一对十分熟悉的概念</p>
+<p>输入与输出，对于软件开发者来说是一对十分熟悉的概念，计算机从本质上来说就在做输入与输出的工作，使用者通过鼠标，键盘，麦克风或者触摸屏，给计算机输入一串信息，计算机读取到这些信息之后，通过计算机内部的数字逻辑元件进一系列的计算，最终将处理好的信息输出反馈给使用者。</p>
 
 ]]></content>
   </entry>
