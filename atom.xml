@@ -4,20 +4,39 @@
   <title><![CDATA[思考集]]></title>
   <link href="https://shengjunqiu.github.io/atom.xml" rel="self"/>
   <link href="https://shengjunqiu.github.io/"/>
-  <updated>2019-09-16T23:31:48+08:00</updated>
+  <updated>2020-07-10T14:43:27+08:00</updated>
   <id>https://shengjunqiu.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
-  <generator uri="http://www.coderforart.com/">CoderForArt</generator>
-
+  <generator uri="http://www.mweb.im/">MWeb</generator>
   
   <entry>
-    <title type="html"><![CDATA[知识共享与版权]]></title>
-    <link href="https://shengjunqiu.github.io/15802046793634.html"/>
-    <updated>2020-01-28T17:44:39+08:00</updated>
-    <id>https://shengjunqiu.github.io/15802046793634.html</id>
+    <title type="html"><![CDATA[浅谈投资]]></title>
+    <link href="https://shengjunqiu.github.io/15943631685887.html"/>
+    <updated>2020-07-10T14:39:28+08:00</updated>
+    <id>https://shengjunqiu.github.io/15943631685887.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[宏观经济学]]></title>
+    <link href="https://shengjunqiu.github.io/15943631583511.html"/>
+    <updated>2020-07-10T14:39:18+08:00</updated>
+    <id>https://shengjunqiu.github.io/15943631583511.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[知识共享与版权付费]]></title>
+    <link href="https://shengjunqiu.github.io/15943631382138.html"/>
+    <updated>2020-07-10T14:38:58+08:00</updated>
+    <id>https://shengjunqiu.github.io/15943631382138.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
@@ -25,81 +44,20 @@
   
   <entry>
     <title type="html"><![CDATA[谈谈个人的输入与输出]]></title>
-    <link href="https://shengjunqiu.github.io/15685429421414.html"/>
-    <updated>2019-09-15T18:22:22+08:00</updated>
-    <id>https://shengjunqiu.github.io/15685429421414.html</id>
+    <link href="https://shengjunqiu.github.io/15943631291232.html"/>
+    <updated>2020-07-10T14:38:49+08:00</updated>
+    <id>https://shengjunqiu.github.io/15943631291232.html</id>
     <content type="html"><![CDATA[
-<p>输入与输出，对于软件开发者来说是一对十分熟悉的概念，计算机从本质上来说就在做输入与输出的工作，使用者通过鼠标，键盘，麦克风或者触摸屏，给计算机输入一串信息，计算机读取到这些信息之后，通过计算机内部的数字逻辑元件进一系列的计算，最终将处理好的信息输出反馈给使用者。</p>
 
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[创业经验]]></title>
-    <link href="https://shengjunqiu.github.io/15627937552042.html"/>
-    <updated>2019-07-11T05:22:35+08:00</updated>
-    <id>https://shengjunqiu.github.io/15627937552042.html</id>
+    <title type="html"><![CDATA[计算机知识体系构建]]></title>
+    <link href="https://shengjunqiu.github.io/15943631188749.html"/>
+    <updated>2020-07-10T14:38:38+08:00</updated>
+    <id>https://shengjunqiu.github.io/15943631188749.html</id>
     <content type="html"><![CDATA[
-<ol>
-<li>工作流程标准化。</li>
-<li>永远不要抱侥幸心理。</li>
-<li>执行力非常重要，所有考虑成熟的安排和计划都必须坚定地执行。</li>
-<li>磨刀不误砍柴功。</li>
-</ol>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[🗣]]></title>
-    <link href="https://shengjunqiu.github.io/15578213825708.html"/>
-    <updated>2019-05-14T16:09:42+08:00</updated>
-    <id>https://shengjunqiu.github.io/15578213825708.html</id>
-    <content type="html"><![CDATA[
-<p>我现在每天有50%的时间是在和客户打交道，40%的时间在做无需思考的重复性劳动，只有不到10%的时间在写代码，很焦虑很暴躁。</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[相关书籍]]></title>
-    <link href="https://shengjunqiu.github.io/15144888846668.html"/>
-    <updated>2017-12-29T03:21:24+08:00</updated>
-    <id>https://shengjunqiu.github.io/15144888846668.html</id>
-    <content type="html"><![CDATA[
-<h3 id="toc_0">计算机史</h3>
-
-<ul>
-<li><a href="https://item.jd.com/11670362.html">《计算机：一部历史》</a> </li>
-<li><a href="https://item.jd.com/11758229.html">《计算机科学导论》</a></li>
-</ul>
-
-<h3 id="toc_1">计算组成原理</h3>
-
-<ul>
-<li><a href="https://item.jd.com/12157932.html">《计算机组成原理》</a></li>
-</ul>
-
-<p><strong>待续...</strong></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[计算机科学知识体系构建]]></title>
-    <link href="https://shengjunqiu.github.io/15144881863756.html"/>
-    <updated>2017-12-29T03:09:46+08:00</updated>
-    <id>https://shengjunqiu.github.io/15144881863756.html</id>
-    <content type="html"><![CDATA[
-<ul>
-<li>计算机史</li>
-<li>计算机组成原理 / 数理逻辑</li>
-<li>算法与数据结构 / 离散数学</li>
-<li>汇编语言 / 编译原理</li>
-<li>操作系统</li>
-<li>数据库</li>
-<li>计算机网络</li>
-</ul>
 
 ]]></content>
   </entry>
