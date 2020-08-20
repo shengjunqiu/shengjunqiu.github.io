@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[思考集]]></title>
+  <title><![CDATA[比特营造]]></title>
   <link href="https://shengjunqiu.github.io/atom.xml" rel="self"/>
   <link href="https://shengjunqiu.github.io/"/>
-  <updated>2020-07-12T14:49:33+08:00</updated>
+  <updated>2020-08-04T12:07:49+08:00</updated>
   <id>https://shengjunqiu.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[谈谈暴利]]></title>
+    <link href="https://shengjunqiu.github.io/15973871652285.html"/>
+    <updated>2020-08-14T14:39:25+08:00</updated>
+    <id>https://shengjunqiu.github.io/15973871652285.html</id>
+    <content type="html"><![CDATA[
+<p>投资人都偏爱能创造超高利润的行业，在我看来，造就暴利的原因只有一个，<strong>垄断</strong>。当一家公司垄断了其他公司无法获取的资源，才有可能获取超高的利润。</p>
+
+<p>下面我们来谈谈目前存在的集中类型的垄断：</p>
+
+<p><strong>自然资源</strong></p>
+
+<p><strong>历史资源</strong></p>
+
+<p><strong>政策资源</strong></p>
+
+<p><strong>技术资源</strong></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[谈谈 TikTok]]></title>
